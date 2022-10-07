@@ -16,7 +16,7 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px green;
         left: 5%;
-        top: 650px;
+        top: 690px;
     }
 }@media (max-width: 575px) {
     #foto{
@@ -25,6 +25,6 @@ div{
         border-radius: 100%;
         box-shadow: 3px 3px 3px green;
         left: 35%;
-        top: 660px;
+        top: 950px;
     }
 }
