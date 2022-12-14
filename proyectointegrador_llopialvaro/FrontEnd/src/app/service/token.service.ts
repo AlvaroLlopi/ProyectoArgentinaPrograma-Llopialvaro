@@ -1,4 +1,3 @@
-import { useAnimation } from '@angular/animations';
 import { Injectable } from '@angular/core';
 
 const TOKEN_KEY = 'AuthToken';
